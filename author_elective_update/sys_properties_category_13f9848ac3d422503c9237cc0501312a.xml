@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="DELETE">
+        <name>NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-16 12:58:38</sys_created_on>
+        <sys_id>13f9848ac3d422503c9237cc0501312a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_13f9848ac3d422503c9237cc0501312a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-16 12:58:38</sys_updated_on>
+        <title><![CDATA[<p style="text-align: center;"><img style="display: block; margin-left: auto; margin-right: auto;" title="criss-t.png" src="/sys_attachment.do?sys_id&#61;bf1ac8c6c3d422503c9237cc05013108" alt="" width="306" height="306" /></p>
+<p style="text-align: center;"><strong><span style="font-size: 18pt;">Properties bitcheeess</span></strong></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="DELETE" query="documentkey=13f9848ac3d422503c9237cc0501312a"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>23a5c624934a96d0611eddd548373c51</instance_id>
+        <instance_name>dev290574</instance_name>
+        <name>sys_properties_category_13f9848ac3d422503c9237cc0501312a</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_properties_category"&gt;&lt;sys_properties_category action="INSERT_OR_UPDATE"&gt;&lt;name&gt;NeedIt Properties&lt;/name&gt;&lt;sys_class_name&gt;sys_properties_category&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-03-16 12:58:38&lt;/sys_created_on&gt;&lt;sys_id&gt;13f9848ac3d422503c9237cc0501312a&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;NeedIt Properties&lt;/sys_name&gt;&lt;sys_package display_value="NeedIt" source="x_58872_needit"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="NeedIt"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_properties_category_13f9848ac3d422503c9237cc0501312a&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-03-16 12:58:38&lt;/sys_updated_on&gt;&lt;title&gt;&lt;![CDATA[&lt;p style="text-align: center;"&gt;&lt;img style="display: block; margin-left: auto; margin-right: auto;" title="criss-t.png" src="/sys_attachment.do?sys_id&amp;#61;bf1ac8c6c3d422503c9237cc05013108" alt="" width="306" height="306" /&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;&lt;span style="font-size: 18pt;"&gt;Properties bitcheeess&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;]]&gt;&lt;/title&gt;&lt;/sys_properties_category&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=13f9848ac3d422503c9237cc0501312a"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1917621618</payload_hash>
+        <record_name>NeedIt Properties</record_name>
+        <reverted_from/>
+        <source>20e804c6c3d422503c9237cc050131b0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-16 12:58:38</sys_created_on>
+        <sys_id>705a488ac3d422503c9237cc0501310b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1959f08f3b80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-16 12:58:38</sys_updated_on>
+        <type>System Property Category</type>
+        <update_guid>745a488a36d422509b48e197325fc60a</update_guid>
+        <update_guid_history>745a488a36d422509b48e197325fc60a:-1917621618</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-16 13:04:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties_category">sys_properties_category</sys_db_object>
+        <sys_id>65eefe7e9b9e4c1a9a85045401ddb024</sys_id>
+        <sys_metadata>13f9848ac3d422503c9237cc0501312a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_properties_category_13f9848ac3d422503c9237cc0501312a</sys_update_name>
+        <sys_update_version display_value="sys_properties_category_13f9848ac3d422503c9237cc0501312a">705a488ac3d422503c9237cc0501310b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-16 13:04:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
